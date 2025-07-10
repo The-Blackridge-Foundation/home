@@ -16,7 +16,7 @@ We believe that creative expression is not a luxury; it is a human necessity. Th
 
 ##  Why We Were Created
 
-Creative brilliance is everywhere—but access is not. Many emerging creators are trapped beneath financial hardship, social limitations, or systemic barriers that prevent their ideas from ever reaching the world.
+Creative brilliance is everywhere, but access is not. Many emerging creators are trapped beneath financial hardship, social limitations, or systemic barriers that prevent their ideas from ever reaching the world.
 
 The Blackridge Foundation was created to change that.
 
@@ -28,7 +28,7 @@ We don't believe in waiting for permission. We believe in unlocking doors.
 
 ##  Our Mission
 
-To identify, support, and empower creators from underserved communities by providing financial assistance, digital resources, mentorship, and a platform for visibility. We are committed to building a world where all creators, regardless of their background—can pursue their passion without limitation.
+To identify, support, and empower creators from underserved communities by providing financial assistance, digital resources, mentorship, and a platform for visibility. We are committed to building a world where all creators, regardless of their background, can pursue their passion without limitation.
 
 ---
 
@@ -85,7 +85,7 @@ We are currently in the process of applying for fiscal sponsorship under a regis
 
 ## Final Word
 
-The Blackridge Foundation is more than an organization, it’s a movement. A movement for those who’ve been left out of the spotlight but never lost their shine. A foundation built on struggle, vision, and the belief that the next generation of cultural leaders are already here—they just need to be seen.
+The Blackridge Foundation is more than an organization, it’s a movement. A movement for those who’ve been left out of the spotlight but never lost their shine. A foundation built on struggle, vision, and the belief that the next generation of cultural leaders are already here, they just need to be seen.
 
 We exist to amplify those voices.
 
